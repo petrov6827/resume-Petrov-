@@ -34,3 +34,8 @@ h3 {
     margin-top: 64px;
     text-align: center;    
 }
+
+p.about {
+    display: inline-block;
+    max-width: 50%;
+}
